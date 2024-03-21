@@ -34,10 +34,10 @@ export default function Hero() {
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">A pioneering AI Annotator workflow with Blockchain</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
-                  <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Try demo</a>
+                  <a target="_blank" rel="noopener noreferrer" className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://gaupoit.github.io/flowmind-ai/index.html">Try demo</a>
                 </div>
                 <div>
-                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Whitepaper</a>
+                  <a target="_blank" rel="noopener noreferrer" className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://casperdash.gitbook.io/flowmind-ai/">Whitepaper</a>
                 </div>
               </div>
             </div>
