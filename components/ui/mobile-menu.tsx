@@ -63,7 +63,7 @@ export default function MobileMenu() {
           leaveFrom="opacity-100"
           leaveTo="opacity-0"
         >
-          <ul className="px-5 py-2">
+          {/* <ul className="px-5 py-2">
             <li>
               <Link href="/signin" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Sign in</Link>
             </li>
@@ -75,7 +75,7 @@ export default function MobileMenu() {
                 </svg>
               </Link>
             </li>
-          </ul>          
+          </ul>           */}
         </Transition>
       </div>
     </div>
